@@ -1,0 +1,25 @@
+{
+    "students" :
+    [
+        {"name" : "Onur Sahin",
+        "class" : "4"},
+        {"name" : "Murat Asan",
+        "class" : "5"},
+        {"name" : "Anas ElBekayy",
+        "class" : "4"},
+        {"name" : "Ali Canlier",
+        "class" : "4"},
+        {"name" : "Mehmet Emen",
+        "class" : "3"},
+        {"name" : "Enes Uzun",
+        "class" : "3"},
+        {"name" : "Akif Albayrak",
+        "class" : "3"},
+        {"name" : "Veli Gunay",
+        "class" : "5"},
+        {"name" : "Anonim Anonim",
+        "class" : "4"},
+        {"name" : "Random Random",
+        "class" : "4"}
+    ]
+}

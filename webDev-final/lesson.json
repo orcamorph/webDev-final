@@ -1,0 +1,23 @@
+{
+    "lesson" :
+    [
+        {"name" : "CSS",
+         "capacity":80
+        },
+        {"name" : "JS",
+         "capacity":50
+        },
+        {"name" : "React",
+         "capacity":20
+        },
+        {"name" : "Angular",
+         "capacity":20
+        },
+        {"name" : "Next.js",
+         "capacity":10
+        },
+        {"name" : "Node.js",
+         "capacity":50
+        }
+    ]
+}
